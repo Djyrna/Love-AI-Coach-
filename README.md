@@ -1,4 +1,4 @@
-# ❤️ LoveAI — AI Love Coach for Couple Conversation Analysis
+# LoveAI — AI Love Coach for Couple Conversation Analysis
 
 ## Overview
 
