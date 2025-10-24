@@ -1,0 +1,332 @@
+[
+  {
+    "speaker": "B",
+    "text": "Seeing them move on and on kills me inside.",
+    "emotion": "neutral",
+    "problem": "moving_on"
+  },
+  {
+    "speaker": "B",
+    "text": "Any minor misunderstanding escalates to a quarrel in minutes and I get angry.",
+    "emotion": "anger",
+    "problem": "misunderstanding"
+  },
+  {
+    "speaker": "B",
+    "text": "I feel jealous that they seem closer to other people than to me.",
+    "emotion": "neutral",
+    "problem": "jealousy"
+  },
+  {
+    "speaker": "B",
+    "text": "I'm angry they don't believe me when I say I'm honest.",
+    "emotion": "neutral",
+    "problem": "trust"
+  },
+  {
+    "speaker": "A",
+    "text": "It hurts that they doubt me even though I\u2019ve done nothing wrong.",
+    "emotion": "sadness",
+    "problem": "trust"
+  },
+  {
+    "speaker": "A",
+    "text": "I can't help but be jealous when they flirt online.",
+    "emotion": "neutral",
+    "problem": "jealousy"
+  },
+  {
+    "speaker": "B",
+    "text": "I\u2019m tired of miscommunications causing fights every week.",
+    "emotion": "sadness",
+    "problem": "misunderstanding"
+  },
+  {
+    "speaker": "B",
+    "text": "When we disagree on small things, I get so angry.",
+    "emotion": "neutral",
+    "problem": "misunderstanding"
+  },
+  {
+    "speaker": "B",
+    "text": "Misunderstandings only keep piling up and I end up getting angry.",
+    "emotion": "neutral",
+    "problem": "misunderstanding"
+  },
+  {
+    "speaker": "B",
+    "text": "Seeing them happy without me triggers a mix of sadness and jealousy.",
+    "emotion": "sadness",
+    "problem": "moving_on"
+  },
+  {
+    "speaker": "B",
+    "text": "Seeing them happy with someone else saddens me inside.",
+    "emotion": "sadness",
+    "problem": "moving_on"
+  },
+  {
+    "speaker": "A",
+    "text": "It's painful when they don't believe in my word.",
+    "emotion": "sadness",
+    "problem": "trust"
+  },
+  {
+    "speaker": "B",
+    "text": "It's annoying when they don't trust my intentions.",
+    "emotion": "anger",
+    "problem": "trust"
+  },
+  {
+    "speaker": "A",
+    "text": "It\u2019s hurtful when they don\u2019t trust me on even small things.",
+    "emotion": "sadness",
+    "problem": "trust"
+  },
+  {
+    "speaker": "A",
+    "text": "I feel jealous when they get attention from other people.",
+    "emotion": "neutral",
+    "problem": "jealousy"
+  },
+  {
+    "speaker": "A",
+    "text": "I feel sad thinking about them moving on without me.",
+    "emotion": "sadness",
+    "problem": "moving_on"
+  },
+  {
+    "speaker": "B",
+    "text": "It\u2019s frustrating when they misinterpret what I mean, we argue for no reason.",
+    "emotion": "anger",
+    "problem": "misunderstanding"
+  },
+  {
+    "speaker": "B",
+    "text": "It makes me angry that they suspect me of lying always.",
+    "emotion": "anger",
+    "problem": "trust"
+  },
+  {
+    "speaker": "B",
+    "text": "Spending time together always lifts my mood.",
+    "problem": "moving_on",
+    "emotion": "love"
+  },
+  {
+    "speaker": "A",
+    "text": "Seeing them move on after our breakup really hurts.",
+    "emotion": "sadness",
+    "problem": "moving_on"
+  },
+  {
+    "speaker": "B",
+    "text": "Seeing them move on is painful to my heart.",
+    "emotion": "sadness",
+    "problem": "moving_on"
+  },
+  {
+    "speaker": "A",
+    "text": "I get jealous when they talk of past relationships.",
+    "emotion": "neutral",
+    "problem": "jealousy"
+  },
+  {
+    "speaker": "B",
+    "text": "It's infuriating when they don't trust me for no reason.",
+    "emotion": "anger",
+    "problem": "trust"
+  },
+  {
+    "speaker": "A",
+    "text": "I'm lonely being so distant, I just yearn for closeness.",
+    "emotion": "sadness",
+    "problem": "distance"
+  },
+  {
+    "speaker": "A",
+    "text": "Being this far from each other makes everyday tougher than it has to be.",
+    "emotion": "neutral",
+    "problem": "distance"
+  },
+  {
+    "speaker": "A",
+    "text": "It pains me to see them move on and enjoy themselves without me.",
+    "emotion": "joy",
+    "problem": "moving_on"
+  },
+  {
+    "speaker": "A",
+    "text": "I get jealous when they hang out with certain friends. It makes me insecure.",
+    "emotion": "neutral",
+    "problem": "jealousy"
+  },
+  {
+    "speaker": "B",
+    "text": "Jealousy hits me whenever they talk to someone else.",
+    "emotion": "neutral",
+    "problem": "jealousy"
+  },
+  {
+    "speaker": "B",
+    "text": "I'm apprehensive when they compliment someone else.",
+    "emotion": "neutral",
+    "problem": "jealousy"
+  },
+  {
+    "speaker": "B",
+    "text": "Seeing them smile makes my day so much better.",
+    "problem": "trust",
+    "emotion": "joy"
+  },
+  {
+    "speaker": "A",
+    "text": "The distance makes every day feel heavier than it should.",
+    "emotion": "neutral",
+    "problem": "distance"
+  },
+  {
+    "speaker": "A",
+    "text": "Distance is so draining, I just want us to be together.",
+    "emotion": "neutral",
+    "problem": "distance"
+  },
+  {
+    "speaker": "A",
+    "text": "I get nervous when they notice others.",
+    "emotion": "fear",
+    "problem": "jealousy"
+  },
+  {
+    "speaker": "A",
+    "text": "It's hard when they don't trust my decisions, even little ones.",
+    "emotion": "neutral",
+    "problem": "trust"
+  },
+  {
+    "speaker": "A",
+    "text": "Distance makes me feel like I\u2019m missing a part of my life.",
+    "emotion": "sadness",
+    "problem": "distance"
+  },
+  {
+    "speaker": "A",
+    "text": "Long distance is making me sad and lonely.",
+    "emotion": "sadness",
+    "problem": "distance"
+  },
+  {
+    "speaker": "B",
+    "text": "I feel jealous when they look happier with their friends than with me.",
+    "emotion": "joy",
+    "problem": "jealousy"
+  },
+  {
+    "speaker": "A",
+    "text": "I feel happy when they compliment me sincerely.",
+    "problem": "trust",
+    "emotion": "joy"
+  },
+  {
+    "speaker": "A",
+    "text": "Long distance is crappy; I just want them near.",
+    "emotion": "neutral",
+    "problem": "distance"
+  },
+  {
+    "speaker": "A",
+    "text": "Being away all the time makes me lonely and empty.",
+    "emotion": "sadness",
+    "problem": "distance"
+  },
+  {
+    "speaker": "A",
+    "text": "Even when we are apart, thinking of them makes me happy.",
+    "problem": "distance",
+    "emotion": "joy"
+  },
+  {
+    "speaker": "B",
+    "text": "I get really angry when they play with my words and misjudge me.",
+    "emotion": "anger",
+    "problem": "misunderstanding"
+  },
+  {
+    "speaker": "B",
+    "text": "I feel sadness seeing them happy without me.",
+    "emotion": "sadness",
+    "problem": "moving_on"
+  },
+  {
+    "speaker": "B",
+    "text": "I feel sad that they don\u2019t trust me even though I\u2019ve never lied.",
+    "emotion": "sadness",
+    "problem": "trust"
+  },
+  {
+    "speaker": "A",
+    "text": "Being long-distance is so hard, I miss them constantly.",
+    "emotion": "sadness",
+    "problem": "distance"
+  },
+  {
+    "speaker": "B",
+    "text": "Arguments start with little misunderstandings and I just get annoyed.",
+    "emotion": "anger",
+    "problem": "misunderstanding"
+  },
+  {
+    "speaker": "B",
+    "text": "Small misunderstandings escalate into huge fights, it's exhausting.",
+    "emotion": "sadness",
+    "problem": "misunderstanding"
+  },
+  {
+    "speaker": "B",
+    "text": "I fear they will like someone else while we sort things out.",
+    "emotion": "fear",
+    "problem": "jealousy"
+  },
+  {
+    "speaker": "A",
+    "text": "I dislike the thought that they would move on from me.",
+    "emotion": "neutral",
+    "problem": "moving_on"
+  },
+  {
+    "speaker": "A",
+    "text": "I love it when we understand each other without words.",
+    "problem": "misunderstanding",
+    "emotion": "love"
+  },
+  {
+    "speaker": "B",
+    "text": "Misunderstandings always arise and it pisses me off.",
+    "emotion": "sadness",
+    "problem": "misunderstanding"
+  },
+  {
+    "speaker": "A",
+    "text": "They don't tell me anything personal, and it makes me sad.",
+    "emotion": "sadness",
+    "problem": "trust"
+  },
+  {
+    "speaker": "B",
+    "text": "Miscommunications always leave me feeling angry and drained.",
+    "emotion": "neutral",
+    "problem": "misunderstanding"
+  },
+  {
+    "speaker": "A",
+    "text": "I resent the distance between us; I just want to see them.",
+    "emotion": "neutral",
+    "problem": "distance"
+  },
+  {
+    "speaker": "A",
+    "text": "It hurts me to think they're moving on faster than me.",
+    "emotion": "neutral",
+    "problem": "moving_on"
+  }
+]
