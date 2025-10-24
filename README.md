@@ -52,4 +52,10 @@ Example results:
 - Emotion detection is feasible with GoEmotions after mapping labels, but performance depends heavily on model size and fine-tuning budget.  
 - Main challenges: dataset availability (privacy for couple data), conversational nuance, slang/short forms.
 
+## Conclusion
+
+This project was a little more ambitious due to the lack of available and relevant datasets for training conversational models about relationships and emotions.
+Because of this limitation, many components of the pipeline had to be built from scratch or adapted from general-purpose datasets such as DailyDialog and GoEmotions.
+
+Although the full conversational AI system was not completed, the work successfully demonstrated the foundation of an emotionally intelligent assistant capable of detecting relationship problems and understanding emotional tone in dialogue.
 
